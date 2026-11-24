@@ -17,6 +17,10 @@ This academic team project used MIMIC-IV hospital and emergency department table
 
 The lower threshold identified more readmissions and generated more false alerts. Test AUROC was approximately 0.65. Clinical use would require external validation and an assessment of the workload created by false alerts.
 
+## Explore the analysis
+
+- [Project notebook](BA878_Team_Project.ipynb)
+
 ## Data access
 
-MIMIC-IV is distributed through [PhysioNet](https://physionet.org/content/mimiciv/). This case study contains aggregate results only.
+MIMIC-IV is distributed through [PhysioNet](https://physionet.org/content/mimiciv/). Running the notebook requires authorized access to the prepared BigQuery dataset. The notebook includes aggregate results.
