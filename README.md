@@ -2,7 +2,7 @@
 
 ## Research question
 
-Can hospital encounter data help identify patients with chronic kidney disease at elevated risk of readmission within 30 days?
+Hospitals need to identify patients at high risk of returning shortly after discharge. Chronic kidney disease (CKD) patients may have other health conditions, such as diabetes or heart failure, which could affect their risk of being readmitted within 30 days. Can machine-learning models predict 30-day readmission among CKD patients, and how does multimorbidity affect readmission risk?
 
 ## Approach
 
